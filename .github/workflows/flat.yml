@@ -20,4 +20,4 @@ jobs:
         uses: githubocto/flat@v3
         with:
           http_url: https://news.ycombinator.com
-          downloaded_filename: hackernews.json
+          downloaded_filename: hackernews.csv
